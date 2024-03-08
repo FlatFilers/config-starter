@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "flatfile develop typescript/index.ts",
-    "deploy": "flatfile deploy typescript/index.ts",
+    "dev": "flatfile develop src/index.ts",
+    "deploy": "flatfile deploy src/index.ts",
     "create-workbook": "bash ./scripts/create-workbook.sh"
   },
   "keywords": [],
