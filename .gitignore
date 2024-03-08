@@ -134,5 +134,3 @@ dist
 *.code-workspace
 
 .flatfile/
-
-.devcontainer/

@@ -8,10 +8,5 @@
 				"GitHub.copilot"
 			]
 		}
-	},
-	"containerEnv": {
-		"FLATFILE_API_KEY": "sk_*******",
-		"FLATFILE_ENVIRONMENT_ID": "us_env_******",
-		"WEBHOOK_SITE_URL": "https://webhook.site/*******"
 	}
 }
