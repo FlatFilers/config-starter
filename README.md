@@ -36,5 +36,3 @@ Guidance and context for these steps can be found in our [Beginner Tutorial Docu
 ## See all code examples
 
 To see all of the code examples from the docs, head to the [flatfile-docs-kitchen-sink](https://github.com/FlatFilers/flatfile-docs-kitchen-sink) repo.
-
-## Test
